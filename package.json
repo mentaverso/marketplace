@@ -1,7 +1,7 @@
 {
   "name": "marketplace",
   "version": "1.0.0",
-  "description": "",
+  "description": "NFT marketplace smart contract",
   "scripts": {
     "test": "npx hardhat test",
     "format": "prettier --write \"**/*.{sol,js,json,md}\""
